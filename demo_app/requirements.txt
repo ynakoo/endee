@@ -1,0 +1,7 @@
+requests
+torch
+transformers
+groq
+python-dotenv
+colorama
+msgpack
